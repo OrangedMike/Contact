@@ -10,6 +10,7 @@ Matrix: [@orangedmike:matrix.trustbtc.org](https://matrix.to/#/@orangedmike:matr
 Twitter: [@orangedmike](https://twitter.com/orangedmike)
 
 PGP Fingerprint 544A F3B2 75C6 44CD F0C9 A409 7BCF 110D 44EB 1D57
+
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCgAdFiEECLW1e1phPsUYYJIeeoCXzC1UNVIFAmOKReIACgkQeoCXzC1U
